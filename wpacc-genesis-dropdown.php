@@ -1,5 +1,5 @@
 <?php
-/**
+/*
 	Plugin Name: Genesis Accessible Dropdown Menu
 	Plugin URI: http://wp-accessible.org/
 	Description: Adds keyboard accessibility to the Genesis menu's (version 2.0 and higher)
@@ -9,7 +9,7 @@
 	License: GPLv2 or later
 */
 
-/**
+/*
 Version 1.0
 - first release
 This is a modified version of the Keyboard Accessible Dropdown Menus Plugin by  Amy Hendrix and = Graham Armfield
